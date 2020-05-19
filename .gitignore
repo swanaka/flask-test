@@ -195,4 +195,7 @@ tags
 # Ignore all local history of files
 .history
 
+# Azure
+.azure/
+
 # End of https://www.gitignore.io/api/vim,flask,python,visualstudiocode
